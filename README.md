@@ -1,5 +1,5 @@
 ### Hi there!
-# My name is Josiah Parrott and I am a Software Engineering student at Michigan Tech with a minor in German and Sound Design. I am passionate about all things music software. 
+My name is Josiah Parrott and I am a Software Engineering student at Michigan Tech with a minor in German and Sound Design. I am passionate about all things music software. 
 
 - 🔭 I’m currently working on: my B.S. in Software Engineering
 - 🌱 I’m currently learning: C++ as it applies to audio plugins
